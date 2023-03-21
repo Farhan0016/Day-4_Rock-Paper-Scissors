@@ -1,4 +1,4 @@
-# https://repl.it/@appbrewery/rock-paper-scissors-end
+#Rock Paper Scissor
 from ArtFile import rock, paper, scissors
 from random import randint
 
